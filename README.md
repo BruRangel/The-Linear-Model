@@ -1,4 +1,4 @@
-# 📈 Projeto de Regressão Linear com Jupyter
+# 📈 Implementação de Algoritmo de Regressão Linear
 
 Este repositório implementa um algoritmo de Regressão Linear do zero para prever valores a partir de um dataset sintético com duas features.
 
